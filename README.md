@@ -33,7 +33,7 @@ npm publish
 1. 使用 Usage In Web
 
 ```
-Utils.VERSION
+Utils.version
 Utils.titleCase('hello world)  
 ```
 
@@ -45,7 +45,7 @@ Utils.titleCase('hello world)
 npm install adeqing-common-utils --save-dev
 ```
 
-2. 使用 Usage In Node.js
+2. 使用 Usage In Node
 
 ```
 const Utils =  require('adeqing-common-utils')
