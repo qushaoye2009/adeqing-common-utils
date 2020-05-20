@@ -1,6 +1,6 @@
 {
   "name": "adeqing-common-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adeqing-common-utils使用webpack打包一个JavaScript类库",
   "main": "./dist/index.js",
   "scripts": {
